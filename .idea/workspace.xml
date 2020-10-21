@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4b8bfd0-b828-4b55-9027-889a9c079213" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/P3-Markov-Part1-Wordgram/WordGramBenchmark.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3-Markov-Part1-Wordgram/WordGramBenchmark.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WordGramBenchmark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordGramBenchmark.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hLMIBaYdaVsxGzYczCQR7el7zD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IdeaProjects" />
+  </component>
+  <component name="RunManager" selected="Application.WordGramBenchmark">
+    <configuration name="SimpleWordGramDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleWordGramDriver" />
+      <module name="P3-Markov-Part1-Wordgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordGramBenchmark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordGramBenchmark" />
+      <module name="P3-Markov-Part1-Wordgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordGramBenchmark" />
+        <item itemvalue="Application.SimpleWordGramDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4b8bfd0-b828-4b55-9027-889a9c079213" name="Default Changelist" comment="" />
+      <created>1599785836438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599785836438</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599787982806">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.683@0.0.1280.683" timestamp="1599787982806" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1600154400334">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.683@0.0.1280.683" timestamp="1600154400334" />
+    <state width="1237" height="199" key="GridCell.Tab.0.bottom" timestamp="1600050711241">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.0.bottom/0.0.1280.683@0.0.1280.683" timestamp="1600050711241" />
+    <state width="1237" height="199" key="GridCell.Tab.0.center" timestamp="1600050711239">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.0.center/0.0.1280.683@0.0.1280.683" timestamp="1600050711239" />
+    <state width="1237" height="199" key="GridCell.Tab.0.left" timestamp="1600050711239">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.0.left/0.0.1280.683@0.0.1280.683" timestamp="1600050711239" />
+    <state width="1237" height="199" key="GridCell.Tab.0.right" timestamp="1600050711241">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.0.right/0.0.1280.683@0.0.1280.683" timestamp="1600050711241" />
+    <state width="1237" height="199" key="GridCell.Tab.1.bottom" timestamp="1600050711242">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.1.bottom/0.0.1280.683@0.0.1280.683" timestamp="1600050711242" />
+    <state width="1237" height="199" key="GridCell.Tab.1.center" timestamp="1600050711242">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.1.center/0.0.1280.683@0.0.1280.683" timestamp="1600050711242" />
+    <state width="1237" height="199" key="GridCell.Tab.1.left" timestamp="1600050711242">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.1.left/0.0.1280.683@0.0.1280.683" timestamp="1600050711242" />
+    <state width="1237" height="199" key="GridCell.Tab.1.right" timestamp="1600050711242">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.1.right/0.0.1280.683@0.0.1280.683" timestamp="1600050711242" />
+    <state x="376" y="233" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1599786653688">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="376" y="233" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.683@0.0.1280.683" timestamp="1599786653688" />
+    <state x="297" y="145" key="run.anything.popup" timestamp="1599787756402">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="297" y="145" key="run.anything.popup/0.0.1280.683@0.0.1280.683" timestamp="1599787756402" />
+  </component>
+</project>
